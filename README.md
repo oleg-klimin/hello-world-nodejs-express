@@ -1,0 +1,2 @@
+usage:
+node index.js
